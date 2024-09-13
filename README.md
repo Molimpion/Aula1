@@ -32,3 +32,7 @@ Fork é uma cópia independente de um repositório, permitindo modificar o códi
 Uma issue (problema) é uma tarefa, bug ou solicitação de melhoria registrada no repositório. Serve para rastrear e gerenciar o trabalho a ser feito.
 
 Se você está procurando um guia completo sobre Markdown, confira o [Guia Definitivo de Markdown](https://github.com/Molimpion/guia-definitivo-de-markdown). Este repositório oferece uma visão detalhada sobre como usar Markdown de forma eficaz para criar documentação e muito mais.
+
+
+Se você deseja fazer um projeto de apresentação, confira o [Gerador de README](https://rahuldkjain.github.io/gh-profile-readme-generator/). Esse site oferece um modelo base e eficaz para criar uma apresentação no GitHub. 
+
